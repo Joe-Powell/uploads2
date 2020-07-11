@@ -101,24 +101,5 @@ $sql = "SELECT * FROM images";
 
 ?>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 </body>
 </html>
