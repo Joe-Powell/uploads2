@@ -18,7 +18,7 @@
 </form>
 
 <?php
-      $conn = mysqli_connect("localhost", "root", "12345", "uploads2");
+      $conn = mysqli_connect("localhost", "root", "#", "uploads2");
 
 
 if(isset($_POST['submit'])){
